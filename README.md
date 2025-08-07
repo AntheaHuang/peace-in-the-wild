@@ -5,4 +5,4 @@ Personal Front-end project with React and JavaScript.
 - A sample internal system for managing hotel bookings.
 - Check out the project at: https://peace-in-the-wild.vercel.app/login
 - Authentication is required. Please contact me for authenticated username & password.
-- For user-facing website. Please check out: https://github.com/AntheaHuang/peace-in-the-wild-client
+- For user-facing website, please check out: https://github.com/AntheaHuang/peace-in-the-wild-client
